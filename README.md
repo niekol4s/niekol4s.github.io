@@ -1,1 +1,11 @@
-# niekol4s.github.io
+# Data Scientist
+
+### Education
+Computer Science
+
+### Work Experience
+Data Scientist @ Toyota
+
+
+### Projects
+
