@@ -9,13 +9,13 @@ layout: default
 - B.Sc., Information Systems | Technical University of Darmstadt (_Oct 2019 - Mar 2023_)
 -->
 
-**M.Sc., Information Systems**  
+**M.Sc. Information Systems**  
 Technical University of Munich · _Oct 2023 – Mar 2026_
 
-**M.Sc., Information Systems**  
+**M.Sc. Information Systems** - Semester Abroad
 Nagaoka University of Technology · _Apr 2023 – Aug 2023_
 
-**B.Sc., Information Systems**  
+**B.Sc. Information Systems**  
 Technical University of Darmstadt · _Oct 2019 – Mar 2023_
 
 ## Work Experience

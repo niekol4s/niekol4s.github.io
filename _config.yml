@@ -1,15 +1,15 @@
-#title: Nikolas Lethaus
-#logo: /assets/img/foto.png
-# description: text below image
+title: Nikolas Lethaus
+logo: /assets/img/foto.png
+description: text below image
 #show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/cayman@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: Nikolas Lethaus
-description: Hi, I’m Nikolas Lethaus — a passionate Information Systems student at TUM with hands-on experience in machine learning, data science, and backend development. I enjoy building meaningful applications, exploring AI research, and creating scalable solutions that make an impact.
+#title: Nikolas Lethaus
+#description: Hi, I’m Nikolas Lethaus — a passionate Information Systems student at TUM with hands-on experience in machine learning, data science, and backend development. I enjoy building meaningful applications, exploring AI research, and creating scalable solutions that make an impact.
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
