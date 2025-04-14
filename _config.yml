@@ -1,8 +1,15 @@
-title: Nikolas Lethaus
-logo: /assets/img/foto.png
+#title: Nikolas Lethaus
+#logo: /assets/img/foto.png
 # description: text below image
 #show_downloads: true
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/cayman@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+title: Nikolas Lethaus
+description: Data Science
+#show_downloads: true
+#google_analytics:
+theme: jekyll-theme-cayman
