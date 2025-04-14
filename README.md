@@ -5,10 +5,10 @@
 <details>
   <summary>🔧 Tech Stack</summary>
 
-  - Python
-  - Django
-  - JavaScript
-  - React
+  - Python  
+  - Django  
+  - JavaScript  
+  - React  
 
 </details>
 
