@@ -35,7 +35,7 @@ Technical University of Darmstadt
 - **Programming**: Teaching Java programming fundamentals, emphasizing logical thinking and algorithm development.
 
 # Projects
-### Winner of Airbus Fly Your Ideas Competition
+## Winner of Airbus Fly Your Ideas Competition
 Collaboration in a team of three to address challenges on how to integrate artificial intelligence in aerospace innovation. Focus on leveraging computer vision to enhance aircraft security with Drone Pre Flight Checks. Continuously developing and refining the model as part of ongoing competition participation.
 [LinkedIn Post](https://www.linkedin.com/posts/airbusgroup_flyyourideas-activity-7223630895331635202-PTgc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIQzxABJ5640m3HaL9G0R_US85eCL4e3TA)  
 ![Airbus](/assets/img/airbus.png)
