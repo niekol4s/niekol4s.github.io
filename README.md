@@ -2,6 +2,16 @@
 
 #### Technical Skills: Python, SQL, AWS, MATLAB
 
+<details>
+  <summary>🔧 Tech Stack</summary>
+
+  - Python
+  - Django
+  - JavaScript
+  - React
+
+</details>
+
 ## Education
 <!--
 - M.Sc., Information Systems | Technical University of Munich (_Oct 2023 - Mar 2026_)
