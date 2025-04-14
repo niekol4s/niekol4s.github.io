@@ -2,8 +2,6 @@
 
 #### Technical Skills: Python, SQL, AWS, MATLAB
 
-test working ????
-
 ## Education
 <!--
 - M.Sc., Information Systems | Technical University of Munich (_Oct 2023 - Mar 2026_)
@@ -11,14 +9,15 @@ test working ????
 - B.Sc., Information Systems | Technical University of Darmstadt (_Oct 2019 - Mar 2023_)
 -->
 
-**M.Sc. Information Systems**  
-Technical University of Munich · _Oct 2023 – Present_
+**M.Sc. Information Systems (_Oct 2023 – Present_)**  
+Technical University of Munich
 
-**M.Sc. Information Systems**    
-Nagaoka University of Technology · _Apr 2023 – Aug 2023_
+**M.Sc. Information Systems (_Apr 2023 – Aug 2023_)**    
+Nagaoka University of Technology
 
-**B.Sc. Information Systems**  
-Technical University of Darmstadt · _Oct 2019 – Mar 2023_
+**B.Sc. Information Systems (_Oct 2019 – Mar 2023_)**  
+Technical University of Darmstadt
+
 ## Work Experience
 **Data Scientist @ Check24 Credit Card (_Sep 2024 - Apr 2025_)**
 - **Machine Learning Pipeline Development**: Developing an end-to-end machine learning pipeline for binary classification, predicting customer credit card approval.
