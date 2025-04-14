@@ -3,9 +3,20 @@ layout: default
 ---
 
 ## Education
+<!--
 - M.Sc., Information Systems | Technical University of Munich (_Oct 2023 - Mar 2026_)
 - M.Sc., Information Systems | Nagaoka University of Technology (_Apr 2023 - Aug 2023_)
 - B.Sc., Information Systems | Technical University of Darmstadt (_Oct 2019 - Mar 2023_)
+-->
+
+**M.Sc., Information Systems**  
+Technical University of Munich · _Oct 2023 – Mar 2026_
+
+**M.Sc., Information Systems**  
+Nagaoka University of Technology · _Apr 2023 – Aug 2023_
+
+**B.Sc., Information Systems**  
+Technical University of Darmstadt · _Oct 2019 – Mar 2023_
 
 ## Work Experience
 **Data Scientist @ Check24 Credit Card (_Sep 2024 - Apr 2025_)**
