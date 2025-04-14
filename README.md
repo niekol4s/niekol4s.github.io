@@ -6,7 +6,7 @@
 **M.Sc. Information Systems**  
 Technical University of Munich · _Oct 2023 – Mar 2026_
 
-**M.Sc. Information Systems** - Semester Abroad
+**M.Sc. Information Systems** - Semester Abroad  
 Nagaoka University of Technology · _Apr 2023 – Aug 2023_
 
 **B.Sc. Information Systems**  
