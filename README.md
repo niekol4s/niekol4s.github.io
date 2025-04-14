@@ -1,4 +1,4 @@
-# Data Scientist
+# CV Portfolio
 
 #### Technical Skills: Python, SQL, AWS, MATLAB
 
