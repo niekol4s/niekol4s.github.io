@@ -17,10 +17,10 @@ Nagaoka University of Technology
 Technical University of Darmstadt
 
 # Work Experience
-**Data Scientist @ Check24 Credit Card (_Sep 2024 - Apr 2025_)**
-**Data Engineer Intern @ Deloitte AI & Data (_Nov 2021 - Mar 2022_)**
-**Software Engineer @ Apteco GmbH (_Sep 2020 - Nov 2021_)** 
-**Teaching Experience in Mathematics and Computer Science (_Jun 2018 - Present_)**
+**Data Scientist @ Check24 Credit Card (_Sep 2024 - Apr 2025_)**  
+**Data Engineer Intern @ Deloitte AI & Data (_Nov 2021 - Mar 2022_)**  
+**Software Engineer @ Apteco GmbH (_Sep 2020 - Nov 2021_)**  
+**Teaching Experience in Mathematics and Computer Science (_Jun 2018 - Present_)**  
 
 # Projects
 ## Winner of Airbus Fly Your Ideas Competition
