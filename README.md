@@ -18,21 +18,9 @@ Technical University of Darmstadt
 
 # Work Experience
 **Data Scientist @ Check24 Credit Card (_Sep 2024 - Apr 2025_)**
-- **Machine Learning Pipeline Development**: Developing an end-to-end machine learning pipeline for binary classification, predicting customer credit card approval.
-- **Model Interpretability and Improvement**: Conducting SHAP analysis to interpret model predictions and identify key features, driving further model refinement and improved decision-making accuracy.
-- **Customer Conversion Ranking**: Ranking customers who have applied for a credit card but not completed the process, providing customer service with a prioritized Excel list for outbound calls increasing conversion rates.
-
 **Data Engineer Intern @ Deloitte AI & Data (_Nov 2021 - Mar 2022_)**
-- **Data Acquisition and Preparation**: Acquired tweets from Twitter API. Cleaned, tokenized and encoded the tweets. Deployed data on AWS S3.
-- **Machine Learning Classification**: Developed pytorch models to classify tweets based on Environmental, Social, and Governance (ESG) criteria, and sentiment (positive, negative, neutral).
-- **Data Visualization**: Created interactive visualizations of model outputs in a web app using Flask and deployed it on AWS Elastic Beanstalk.
-
 **Software Engineer @ Apteco GmbH (_Sep 2020 - Nov 2021_)** 
-- **API Integration**: Integrating third party Email Service Providers (ESP) into Apteco’s data analytics software with powershell scripts.
-
 **Teaching Experience in Mathematics and Computer Science (_Jun 2018 - Present_)**
-- **Mathematics**: Providing foundational understanding and problem-solving skills in mathematics.
-- **Programming**: Teaching Java programming fundamentals, emphasizing logical thinking and algorithm development.
 
 # Projects
 ## Winner of Airbus Fly Your Ideas Competition
